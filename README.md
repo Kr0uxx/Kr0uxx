@@ -14,7 +14,7 @@
 &emsp;
 ![Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&quote=Those%20who%20are%20not%20willing%20to%20make%20sacrifices%20will%20never%20change%20anything&author=Armin%20Arlert)
 &emsp;
-![Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&quote=Kids%20who%20have%20never%20seen%20peace%20and%20kids%20who%20have%20never%20seen%20war%20have%20different%20values&author=Donquixote%20Doflamingo)
+![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Kids%20who%20have%20never%20seen%20peace%20and%20kids%20who%20have%20never%20seen%20war%20have%20different%20values&author=Donquixote%20Doflamingo)
 
 </div>
 
